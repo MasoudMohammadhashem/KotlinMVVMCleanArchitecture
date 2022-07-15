@@ -70,6 +70,7 @@ class HomeViewModel @Inject constructor(private val useCases: AllProductUseCases
         }
     }
 
+
     fun addOneProductToFavoriteDataBase(){
         viewModelScope.launch(Dispatchers.IO) {
             try {
