@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Masoud CleanArchitecture</string>
+    <string name="title_notifications">Notification</string>
+    <string name="title_home">Home</string>
+</resources>
